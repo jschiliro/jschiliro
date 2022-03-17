@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jschiliro
 - 👀 I’m interested in Crossfit, Flamenco dancing, Açai and my Shiba Inu, Avi. 
-- 🌱 I’m currently learning Python and Blockchain. 
-- 💞️ I’m looking to collaborate on Blockchain beginner projects. 
+- 🌱 I’m currently learning Python and Solidity. 
+- 💞️ I’m looking to collaborate on Blockchain projects, specifically in FinTech/Real Estate. 
 - 📫 How to reach me j.schiliro@gmail.com. 
 
 <!---
